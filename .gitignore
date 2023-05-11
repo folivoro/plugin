@@ -1,0 +1,21 @@
+## os and ide specific
+/.idea
+/.vscode
+.DS_Store
+node_modules
+*.log
+/.vagrant
+package-lock.json
+
+## installed via composer
+/vendor/
+/public/cms
+/public/extensions
+/public/languages
+/public/uploads
+/public/.htaccess
+/public/index.php
+/public/wp-config.php
+
+## Environment Credentials
+.env

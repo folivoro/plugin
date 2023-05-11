@@ -1,0 +1,16 @@
+{
+  "name": "folivoro/plugin",
+  "description": "The Folivoro WordPress Plugin.",
+  "license": "MIT",
+  "type": "wordpress-muplugin",
+  "authors": [
+    {
+      "name": "Ben Kremer",
+      "email": "ben@folivoro.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+  "minimum-stability": "stable"
+}
